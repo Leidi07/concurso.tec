@@ -1,0 +1,246 @@
+body {
+
+    color:rgb(0, 0, 0);
+    background: rgb(131, 144, 202);
+    margin: 0px;
+    font-family: " "Montserrat", sans-serif";
+    margin-bottom: 100px;
+    }
+    
+    
+    header{
+    border-bottom: solid 2px rgb(165, 42, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(26, 121, 128);
+    }
+    .chamada {
+   background: rgb(30, 81, 136);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+     }
+
+
+     .chamada-texto{
+        margin-right: 5%;
+        }
+        h1 {
+            font-size: 20px;
+         }
+         img {
+         height: 200px;}
+         .categoria-videos {
+          display: flex
+          overflow-x: auto;
+          gap: 30px;
+         }
+        
+         .categoria {
+          padding-left: 20px;
+          padding-right: 20px;
+          margin-top: 50px; 
+         }
+         .categoria-videos img {
+         opacity: 0.5;
+         height: 200px;
+         }
+
+         .categoria-videos img:hover{
+            opacity: 1.0;
+            border: 1px solid brown;}
+           
+            .categoria h2 {
+              color:  rgb(47, 61, 14);}
+
+
+
+              header {
+               background-color: rgb(131, 144, 202);
+               color: rgb(0, 0, 0);
+               padding: 5px 0;
+               text-align: center;
+               
+
+           }
+           
+           nav ul {
+               list-style: none;
+               padding: 0;
+               font-size: 20px;
+               color:black;
+               
+
+           }
+           
+           nav ul li {
+               display: inline;
+               margin: 0 25px;
+           }
+           
+           nav ul li a {
+               color: rgb(255, 255, 255)77, 86, 86);
+               text-decoration: none;
+               font-size: 20px;
+               
+
+           }
+           
+           nav ul li a:hover {
+               text-decoration: underline;
+               
+
+           
+              
+.
+
+.<nav>
+…
+  <ul>
+    …
+      <li>
+        …
+          <a :hover>
+            …
+              <element class>
+                …
+                  <element class="botao-palavra" :hover>{
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+                
+
+              
+      
+              
+                <nav>
+                …
+                  <ul>
+                    …
+                      <li>
+                        …
+                          <a :hover>
+                            …
+                              
+              
+              
+              
+              
+              
+           
+          }
+          
+          header > h1 {
+            margin-bottom: 0;
+          }
+          
+          header > time {
+            font: italic 0.7rem sans-serif;}
+
+
+            <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-9">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+
+
+
+
+   
+    <title>Palavra como Botão</title>
+    <style>
+        .botao-palavra {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .botao-palavra:hover {
+            background-color: #45a049;
+        }
+        </style>
+          </head>
+<body>
+
+   
+    <span id="botaoPalavra" class="botao-palavra">Início!</span>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+utton{
+    background-color: powderblue;
+    color: black;
+    font-family: "DynaPuff", system-ui;
+    }
+    .passo{
+    display: none;
+    }
+    .passo.ativo {
+        display:block;
+    }
+
+
+    .btn-fixed{
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        visibility: hidden;
+    }
+
+    .btn-fixed.visible {
+      visibility: visible;
+    }
+
+
+
+    a[href="#top"]{
+        padding: 10px;
+        position: fixed;
+        top: 90%;
+        right: 40px;
+        display: none;
+        transition: ease-in-out .2s;
+      }
+      a[href="#top"]:hover{
+        opacity: .8;
+      }
+
+      .logo :hover {background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        padding: 10px 20px;
+        border-radius: 5px;}
+
+
+     
+
+     
+      
+
+
+
+
+
+
+        
+    
+
